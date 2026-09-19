@@ -37,12 +37,12 @@ function App() {
     <main className="page">
       <div className="logo-wrap">
         <div className="logo-frame">
-          <img className="logo" src={PROFILE_IMAGE} alt="Kalyan App logo" draggable="false" />
+          <img className="logo" src={PROFILE_IMAGE} alt="Shiv Online logo" draggable="false" />
         </div>
       </div>
-      <h1>Kalyan App</h1>
+      <h1>Shiv Online</h1>
       <p className="desc">
-        Download the official <b>Kalyan App</b><br />
+        Download the official <b>Shiv Online</b><br />
         India's Most Fastest Growing App for fast results and smooth experience.
       </p>
       <div className="download-wrap"><DownloadButton /></div>
